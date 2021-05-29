@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## About This Base Project
+
+<h2>  About This Base Project </h2>
 This is a basic project wher anyone can contribute for <strong> better coding standard and processes. </strong>  . Any tools that makes the work easier and faster can be listed here.
 Please contribute to this repository by creating the name of new branch as your name from <strong> develop </strong> branch and make <strong> pull request </strong> when you are done.
 
