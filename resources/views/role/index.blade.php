@@ -31,7 +31,7 @@
                                     <x-nav-link :href="route('role.edit',$role->id)" >
                                         {{ __('Edit') }}
                                     </x-nav-link>
-                                    <a href="">Delete</a>
+                                    <!-- <a href="">Delete</a> -->
                                 </td>
                             </tr>
                         @empty
